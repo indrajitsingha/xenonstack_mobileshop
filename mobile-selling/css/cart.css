@@ -1,0 +1,72 @@
+
+  .dress-card-img-top {
+    width:95%;
+    border-radius: 7px 7px 0 0;
+  }
+  
+  .dress-card-body {
+    padding:1rem;
+    background: #fff;
+    border-radius: 0 0 7px 7px;
+  }
+  
+  .dress-card-title {
+    line-height: 0.5rem;
+  }
+  
+  .dress-card-crossed {
+    text-decoration: line-through;
+  }
+  
+  .dress-card-price {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .dress-card-off {
+    color: #E06C9F;
+  }
+  
+  .dress-card-para {
+    margin-bottom: 0.2rem;
+    font-size: 1.0rem;
+    margin-bottom: 0rem;
+  }
+  
+  .dress-card {
+    border-radius: 14px;
+  }
+  
+
+  
+
+  .card-button {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 9px;
+  }
+  .card-button a {
+    text-decoration: none;
+  }
+  
+  .card-button-inner {
+    padding: 7px;
+    border-radius: 3px;
+  }
+  
+  .bag-button {
+    background: black;
+    color: white;
+  }
+  
+  .bag-button :hover{
+    background: black;
+  }
+  
+  .wish-button {
+    border: 1px solid black;
+    color: #370665!important ;
+  }
+  
+  

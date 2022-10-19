@@ -1,0 +1,68 @@
+
+body::-webkit-scrollbar {
+    display: none;
+}
+.nav_bar{
+    background-color:black;
+    color: white !important;
+}
+
+
+.slide_bar{
+    height: 75vh;
+    width: 100%;
+
+}
+.image-slider>img{
+    height: inherit;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.image-slider{
+    height: inherit;
+    width:100%;
+    
+  
+
+}
+.product{
+    margin-top: 6vh;
+
+}
+.h{
+    height: 20vh !important;
+}
+.footer{
+    height: 5vh;
+    background-color: black;
+   bottom: 0;
+    color: white;
+   
+}
+.footer>h5{
+    padding:5px;
+
+}
+
+/* .top-brands{
+    height:25vh;
+    width: 100%;
+    background-color: #370665;
+
+}
+.top-brands>img{
+    height: inherit;
+    width: 100%;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.image-slider{
+    height: inherit;
+    width:100%;
+    
+  
+
+} */
